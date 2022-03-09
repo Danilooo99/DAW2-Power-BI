@@ -1,0 +1,35 @@
+/* Estilos CSS para la página HTML */
+
+body {
+    background-color:#0d0e11;
+    color:white;
+}
+
+hr {
+    width:93%;
+    color:white;
+    margin:auto;
+    height: 3px;
+    margin-bottom: 25px;
+}
+
+section {
+    margin-top: 5%;
+}
+
+iframe {
+    width:100%;
+    height:373.5px;
+}
+
+h6 i{
+    color:white;
+}
+
+.about-avatar {
+    margin:auto;
+}
+
+.counter {
+    margin-top: 8.5%;
+}
